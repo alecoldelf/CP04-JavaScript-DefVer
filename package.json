@@ -1,0 +1,28 @@
+{
+  "name": "cp04-ale-coolsolelog",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Cool console logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "teste.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alecoldelf/CP04-JavaScript-DefVer.git"
+  },
+  "keywords": [
+    "coolsole"
+  ],
+  "author": "Alexandre Colvet, Enzo Luciano, Felipe Molinari, Livia Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alecoldelf/CP04-JavaScript-DefVer/issues"
+  },
+  "homepage": "https://github.com/alecoldelf/CP04-JavaScript-DefVer#readme",
+  "dependencies": {
+    "cat-ascii-faces": "^2.0.0",
+    "chalk": "^5.4.1",
+    "vaca": "^3.0.2"
+  }
+}
