@@ -22,7 +22,6 @@
   "homepage": "https://github.com/alecoldelf/CP04-JavaScript-DefVer#readme",
   "dependencies": {
     "cat-ascii-faces": "^2.0.0",
-    "chalk": "^5.4.1",
-    "vaca": "^3.0.2"
+    "chalk": "^5.4.1"
   }
 }
